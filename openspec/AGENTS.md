@@ -208,7 +208,7 @@ Yêu cầu mới?
 ```markdown
 ## ADDED Requirements
 ### Requirement: Tên Feature bằng tiếng Việt
-Hệ thống PHẢI cung cấp... [mô tả bằng tiếng Việt]
+Hệ thống SHALL cung cấp... [mô tả bằng tiếng Việt]
 
 #### Scenario: Trường hợp thành công
 - **WHEN** người dùng thực hiện hành động [mô tả bằng tiếng Việt]
@@ -283,11 +283,11 @@ Khung `design.md` tối thiểu:
 ### Scenario: Đăng nhập người dùng      ❌
 ```
 
-Mọi requirement PHẢI có ít nhất một scenario.
+Mọi requirement MUST có ít nhất một scenario.
 
 ### Cách viết Requirement
 
-- Dùng PHẢI/BẮT BUỘC cho normative requirements (tránh nên/có thể trừ khi có chủ đích không normative)
+- Dùng SHALL/MUST cho normative requirements (tránh nên/có thể trừ khi có chủ đích không normative)
 
 ### Delta Operations
 
@@ -368,7 +368,7 @@ printf "## 1. Triển khai\n- [ ] 1.1 ...\n" > openspec/changes/$CHANGE/tasks.md
 cat > openspec/changes/$CHANGE/specs/auth/spec.md << 'EOF'
 ## ADDED Requirements
 ### Requirement: Xác thực Hai yếu tố
-Người dùng PHẢI cung cấp yếu tố thứ hai khi đăng nhập.
+Người dùng MUST cung cấp yếu tố thứ hai khi đăng nhập.
 
 #### Scenario: OTP bắt buộc
 - **WHEN** credentials hợp lệ được cung cấp
