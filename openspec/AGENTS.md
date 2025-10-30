@@ -4,7 +4,7 @@ Hướng dẫn cho AI coding assistants sử dụng OpenSpec để phát triển
 
 ## QUAN TRỌNG: Ngôn ngữ Sử dụng
 
-**BẮT BUỘC PHẢI DÙNG TIẾNG VIỆT** cho TẤT CẢ nội dung trong các file:
+**BẮT BUỘC MUST DÙNG TIẾNG VIỆT** cho TẤT CẢ nội dung trong các file:
 - `proposal.md` - Toàn bộ nội dung bằng tiếng Việt
 - `tasks.md` - Toàn bộ nội dung bằng tiếng Việt
 - `design.md` - Toàn bộ nội dung bằng tiếng Việt
@@ -23,7 +23,7 @@ Hướng dẫn cho AI coding assistants sử dụng OpenSpec để phát triển
 ```markdown
 ## ADDED Requirements
 ### Requirement: Xác thực Người dùng
-Hệ thống PHẢI xác thực người dùng trước khi cho phép truy cập.
+Hệ thống MUST xác thực người dùng trước khi cho phép truy cập.
 
 #### Scenario: Đăng nhập thành công
 - **WHEN** người dùng nhập đúng tên đăng nhập và mật khẩu
@@ -233,7 +233,7 @@ Nếu nhiều capabilities bị ảnh hưởng, tạo nhiều delta files trong 
 - [ ] 1.3 Thêm frontend component
 - [ ] 1.4 Viết tests
 ```
-**Lưu ý**: Tất cả mô tả tasks PHẢI bằng tiếng Việt.
+**Lưu ý**: Tất cả mô tả tasks MUST bằng tiếng Việt.
 
 5. **Tạo design.md khi cần:**
 Tạo `design.md` nếu bất kỳ điều nào sau đây áp dụng; nếu không thì bỏ qua:
@@ -247,9 +247,9 @@ Khung `design.md` tối thiểu:
 ## Ngữ cảnh
 [Background, constraints, stakeholders]
 
-## Mục tiêu / Không phải Mục tiêu
+## Mục tiêu / Không MUST Mục tiêu
 - Mục tiêu: [...]
-- Không phải Mục tiêu: [...]
+- Không MUST Mục tiêu: [...]
 
 ## Quyết định
 - Quyết định: [Cái gì và tại sao]

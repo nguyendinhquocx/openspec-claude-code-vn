@@ -72,7 +72,7 @@ CUỐI CÙNG LÀ KẾT QUẢ TỐT NHẤT CÓ THỂ.
 
 ### Quality Gates
 
-Mỗi solution phải trả lời:
+Mỗi solution MUST trả lời:
 
 -   Có scalable không?
 -   User experience ra sao?
@@ -141,7 +141,7 @@ Mỗi solution phải trả lời:
 
 **Tối giản và Chức năng**: Thiết kế hướng đến mục đích duy nhất - dễ sử
 dụng, tiện lợi, đơn giản. Loại bỏ những thứ không cần thiết nhưng giữ
-lại tính năng hữu ích và mạnh mẽ. Định nghĩa đẹp phải từ trong ra ngoài,
+lại tính năng hữu ích và mạnh mẽ. Định nghĩa đẹp MUST từ trong ra ngoài,
 thiết kế lấy người dùng làm trung tâm như don norman, tinh tế như trang
 chatGPT, nhẹ nhàng uyển chuyển như Marie Kondo, như thiết kế và triết lí
 của huyển thoại Jony Ive trong sản phẩm.

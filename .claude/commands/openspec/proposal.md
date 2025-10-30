@@ -6,7 +6,7 @@ tags: [openspec, change]
 ---
 <!-- OPENSPEC:START -->
 **Nguyên tắc bảo vệ**
-- **BẮT BUỘC**: Tất cả nội dung trong `proposal.md`, `tasks.md`, `design.md`, và `spec.md` PHẢI viết bằng TIẾNG VIỆT (trừ headers cấu trúc và lệnh). Xem chi tiết tại `openspec/AGENTS.md`.
+- **BẮT BUỘC**: Tất cả nội dung trong `proposal.md`, `tasks.md`, `design.md`, và `spec.md` MUST viết bằng TIẾNG VIỆT (trừ headers cấu trúc và lệnh). Xem chi tiết tại `openspec/AGENTS.md`.
 - Ưu tiên cách làm đơn giản, tối thiểu trước, chỉ thêm độ phức tạp khi được yêu cầu hoặc thực sự cần thiết.
 - Giữ phạm vi thay đổi chặt chẽ theo kết quả được yêu cầu.
 - Tham khảo `openspec/AGENTS.md` (nằm trong thư mục `openspec/`—chạy `ls openspec` hoặc `openspec update` nếu không thấy) nếu cần thêm quy ước hoặc làm rõ về OpenSpec.

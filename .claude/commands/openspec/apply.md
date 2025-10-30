@@ -6,7 +6,7 @@ tags: [openspec, apply]
 ---
 <!-- OPENSPEC:START -->
 **Nguyên tắc bảo vệ**
-- **BẮT BUỘC**: Tất cả code comments, ghi chú, và nội dung tài liệu PHẢI viết bằng TIẾNG VIỆT. Xem chi tiết tại `openspec/AGENTS.md`.
+- **BẮT BUỘC**: Tất cả code comments, ghi chú, và nội dung tài liệu MUST viết bằng TIẾNG VIỆT. Xem chi tiết tại `openspec/AGENTS.md`.
 - Ưu tiên cách làm đơn giản, tối thiểu trước, chỉ thêm độ phức tạp khi được yêu cầu hoặc thực sự cần thiết.
 - Giữ phạm vi thay đổi chặt chẽ theo kết quả được yêu cầu.
 - Tham khảo `openspec/AGENTS.md` (nằm trong thư mục `openspec/`—chạy `ls openspec` hoặc `openspec update` nếu không thấy) nếu cần thêm quy ước hoặc làm rõ về OpenSpec.
